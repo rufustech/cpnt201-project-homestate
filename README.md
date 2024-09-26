@@ -19,11 +19,12 @@
 ## Clone the project
 
 Use git clone to download project to your local repo
-_git clone https://github.com/rufustech/homestate.git_
+_git clone https://github.com/rufustech/cpnt201-project-resto.git_
 
 ## Branching Models
 
 You may Use the 4 branches
+
 1. Bugfix
 2. Feature/your-future-name
 3. Test
@@ -48,6 +49,7 @@ git checkout -b feature/your-feature-name
 # _Make Changes ---as much as you please_
 
 ### Stage your changes and commit with a meaningful message
+
 - git add .
 - git commit -m "meaningful message highlighting the changes"
 - git push origin feature/your-feature-name
@@ -64,10 +66,10 @@ Provide a clear title and description for your pull request, explaining the chan
 ### Review Request Notification:
 
 - Repository maintainers will be notified of your pull request and will review the proposed changes.
-Feedback and Discussion:
+  Feedback and Discussion:
 
 - Reviewers may leave comments, ask questions, or request changes. Engage in the discussion and make necessary adjustments.
-Make Changes if Requested:
+  Make Changes if Requested:
 
 - If changes are requested, make the adjustments in your local branch, commit, and push again.
 
@@ -83,7 +85,7 @@ After merging, consider deleting your feature branch to keep the repository clea
 
 ## CREDITS AND MENTIONS
 
-TITLE: 
+TITLE:
 Homestate - 100% Fully Responsive Free HTML5 Bootstrap Template
 
 AUTHOR:
@@ -92,7 +94,6 @@ DESIGNED & DEVELOPED by FREEHTML5.co
 Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
 Facebook: http://facebook.com/fh5co
-
 
 CREDITS:
 
